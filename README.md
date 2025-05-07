@@ -1,2 +1,5 @@
-# sentiment-analysis
-A prototype to demonstrate the sentiment analysis of news articles
+py -m venv .venv
+.venv\Scripts\activate
+pip install --upgrade pip
+pip install -r requirements.txt
+python -m spacy download en_core_web_lg

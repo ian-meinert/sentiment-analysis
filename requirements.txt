@@ -1,0 +1,34 @@
+# Core Libraries
+# These libraries are foundational for data manipulation and numerical operations.
+scipy
+numpy
+pandas
+
+# Machine Learning Libraries
+# These packages are essential for building and training machine learning models.
+scikit-learn
+torch
+torchvision
+torchaudio
+
+# Natural Language Processing (NLP) Libraries
+# These libraries are used for various NLP tasks and model implementations.
+python-Levenshtein
+spacy
+nltk
+gensim
+textblob
+transformers
+transformers[torch]
+fuzzywuzzy
+
+# Web Frameworks
+# FastAPI and Uvicorn are used for building and serving web applications.
+fastapi
+uvicorn
+
+# Data Extraction Libraries
+# These packages are for processing and extracting data from documents.
+python-docx
+extract_msg
+PyMuPDF
